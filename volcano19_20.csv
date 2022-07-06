@@ -1,0 +1,55 @@
+,Volcano Number,Volcano Name,Eruption Number,Eruption Category,year,month,day,Latitude,Longitude,date
+22,263250,Merapi,22381,Confirmed Eruption,2020.0,12.0,31.0,-7.54,110.446,2020-12-31
+23,360150,Soufriere St. Vincent,22385,Confirmed Eruption,2020.0,12.0,27.0,13.33,-61.18,2020-12-27
+24,344020,San Cristobal,22394,Confirmed Eruption,2020.0,12.0,27.0,12.702,-87.004,2020-12-27
+25,263310,Tengger Caldera,22382,Confirmed Eruption,2020.0,12.0,26.0,-7.942,112.95,2020-12-26
+26,332010,Kilauea,22380,Confirmed Eruption,2020.0,12.0,20.0,19.421,-155.287,2020-12-20
+27,233020,"Fournaise, Piton de la",22371,Confirmed Eruption,2020.0,12.0,7.0,-21.244,55.708,2020-12-07
+28,264230,Lewotolok,22373,Confirmed Eruption,2020.0,11.0,27.0,-8.274,123.508,2020-11-27
+29,282060,Kikai,22374,Confirmed Eruption,2020.0,10.0,6.0,30.793,130.305,2020-10-06
+30,255060,Kavachi,22364,Confirmed Eruption,2020.0,9.0,2.0,-8.991,157.979,2020-09-02
+31,282050,Kuchinoerabujima,22391,Confirmed Eruption,2020.0,8.0,29.0,30.443,130.217,2020-08-29
+32,261080,Sinabung,22365,Confirmed Eruption,2020.0,8.0,8.0,3.17,98.392,2020-08-08
+33,344040,Telica,22368,Confirmed Eruption,2020.0,7.0,20.0,12.606,-86.84,2020-07-20
+34,263340,Raung,22367,Confirmed Eruption,2020.0,7.0,16.0,-8.119,114.056,2020-07-16
+35,345070,Turrialba,22369,Confirmed Eruption,2020.0,6.0,18.0,10.025,-83.767,2020-06-18
+36,357090,Copahue,22376,Confirmed Eruption,2020.0,6.0,16.0,-37.856,-71.183,2020-06-16
+37,311240,Cleveland,22361,Confirmed Eruption,2020.0,6.0,1.0,52.825,-169.944,2020-06-01
+38,282060,Kikai,22359,Confirmed Eruption,2020.0,4.0,29.0,30.793,130.305,2020-04-29
+39,300130,Karymsky,22360,Confirmed Eruption,2020.0,4.0,1.0,54.049,159.443,2020-04-01
+40,266030,Soputan,22354,Confirmed Eruption,2020.0,3.0,23.0,1.112,124.737,2020-03-23
+41,255060,Kavachi,22357,Confirmed Eruption,2020.0,3.0,16.0,-8.991,157.979,2020-03-16
+42,290240,Sarychev Peak,22384,Confirmed Eruption,2020.0,2.0,29.0,48.092,153.2,2020-02-29
+43,343100,San Miguel,22355,Confirmed Eruption,2020.0,2.0,22.0,13.434,-88.269,2020-02-22
+44,233020,"Fournaise, Piton de la",22343,Confirmed Eruption,2020.0,2.0,10.0,-21.244,55.708,2020-02-10
+45,345020,Rincon de la Vieja,22346,Confirmed Eruption,2020.0,1.0,30.0,10.83,-85.324,2020-01-30
+46,353010,Fernandina,22347,Confirmed Eruption,2020.0,1.0,12.0,-0.37,-91.55,2020-01-12
+47,273070,Taal,22344,Confirmed Eruption,2020.0,1.0,12.0,14.002,120.993,2020-01-12
+48,282050,Kuchinoerabujima,22345,Confirmed Eruption,2020.0,1.0,11.0,30.443,130.217,2020-01-11
+49,241040,Whakaari/White Island,22338,Confirmed Eruption,2019.0,12.0,9.0,-37.52,177.18,2019-12-09
+50,311060,Semisopochnoi,22341,Confirmed Eruption,2019.0,12.0,7.0,51.93,179.58,2019-12-07
+51,284096,Nishinoshima,22340,Confirmed Eruption,2019.0,12.0,5.0,27.247,140.874,2019-12-05
+52,311240,Cleveland,22342,Uncertain Eruption,2019.0,11.0,7.0,52.825,-169.944,2019-11-07
+53,282060,Kikai,22339,Confirmed Eruption,2019.0,11.0,2.0,30.793,130.305,2019-11-02
+54,243070,Lateiki,22334,Confirmed Eruption,2019.0,10.0,13.0,-19.18,-174.87,2019-10-13
+55,283110,Asamayama,22326,Confirmed Eruption,2019.0,8.0,7.0,36.406,138.523,2019-08-07
+56,357090,Copahue,22336,Confirmed Eruption,2019.0,8.0,2.0,-37.856,-71.183,2019-08-02
+57,263090,Tangkuban Parahu,22325,Confirmed Eruption,2019.0,7.0,26.0,-6.77,107.6,2019-07-26
+58,311360,Shishaldin,22330,Confirmed Eruption,2019.0,7.0,23.0,54.756,-163.97,2019-07-23
+59,311060,Semisopochnoi,22328,Confirmed Eruption,2019.0,7.0,16.0,51.93,179.58,2019-07-16
+60,252120,Ulawun,22319,Confirmed Eruption,2019.0,6.0,26.0,-5.05,151.33,2019-06-26
+61,354020,Ubinas,22324,Confirmed Eruption,2019.0,6.0,24.0,-16.355,-70.903,2019-06-24
+62,290250,Raikoke,22321,Confirmed Eruption,2019.0,6.0,22.0,48.292,153.25,2019-06-22
+63,233020,"Fournaise, Piton de la",22318,Confirmed Eruption,2019.0,6.0,11.0,-21.244,55.708,2019-06-11
+64,311120,Great Sitkin,22322,Confirmed Eruption,2019.0,6.0,1.0,52.076,-176.13,2019-06-01
+65,290240,Sarychev Peak,22320,Confirmed Eruption,2019.0,5.0,16.0,48.092,153.2,2019-05-16
+66,341040,Colima,22323,Confirmed Eruption,2019.0,5.0,11.0,19.514,-103.62,2019-05-11
+67,282110,Asosan,22317,Confirmed Eruption,2019.0,4.0,16.0,32.884,131.104,2019-04-16
+68,300260,Klyuchevskoy,22310,Confirmed Eruption,2019.0,4.0,9.0,56.056,160.642,2019-04-09
+69,352090,Sangay,22312,Confirmed Eruption,2019.0,3.0,26.0,-2.005,-78.341,2019-03-26
+70,344020,San Cristobal,22311,Confirmed Eruption,2019.0,3.0,4.0,12.702,-87.004,2019-03-04
+71,233020,"Fournaise, Piton de la",22307,Confirmed Eruption,2019.0,2.0,18.0,-21.244,55.708,2019-02-18
+72,263310,Tengger Caldera,22306,Confirmed Eruption,2019.0,2.0,18.0,-7.942,112.95,2019-02-18
+73,300130,Karymsky,22309,Confirmed Eruption,2019.0,2.0,16.0,54.049,159.443,2019-02-16
+74,345040,Poas,22303,Confirmed Eruption,2019.0,2.0,7.0,10.2,-84.233,2019-02-07
+75,261080,Sinabung,22316,Confirmed Eruption,2019.0,2.0,6.0,3.17,98.392,2019-02-06
